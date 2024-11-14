@@ -42,8 +42,10 @@
 
 </div>
 
+<!--
 <div align="center">
-   
+-->
+
 <br/>
 
 **Languages**
@@ -81,8 +83,9 @@
 ![VsCode](https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=vscode&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-5A5A5A?style=for-the-badge&logo=notion&logoColor=white)
+<!--
 </div>
-
+-->
 <br/>
 <br/>
 <br/>
