@@ -4,18 +4,20 @@
 # 👋 Hi, I'm FrontEnd Developer
 
 🎓 국민대학교 소프트웨어학부 재학 중
-   
-   
-   
+<br>
+<br>
+<br>
 </div>
-
+<br>
 <div align="center">
-
-
+<br>
+<br>
+<br>
    
 ## 📚 Career
-   
+<br>
 </div>
+<br>
 
 | **기간**            | **활동 기관**      | **활동 내용**                                                                                  |
 |:---------------------|:--------------------:|:----------------------------------------------------------------------------------------------:|
@@ -25,43 +27,45 @@
 | 2024                | KOSS               | 국민대학교 오픈소스소프트웨어소사이어티 KOSS 동아리, 총무부장 임원진으로 참여                |
 | 2024.03 ~ 2024.06   | (주) 잼코딩        | 1대 다 그룹 과외 선생님으로 근무, Python과 블록코딩 교육                                     |
 | 2024.08 ~           | (주) DORO          | 출장 강사로 활동, IT 교육 및 강의 콘텐츠 개발                                                  |
-
+<br>
 <div align="center">
-
-
-  
+<br>
+<br>
+<br>
+   
 ## 🛠 Skills & Stacks
-
+<br>
 </div>
 <div align="center">
-     
+<br>
+
 **Languages**
-      
+<br> 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-   
+<br>
 **Frameworks & Libraries**
-   
+<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-blue?logo=dart)
-   
+![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
+<br> 
 **Tools**
-   
+<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=FFFFF)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black&borderColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+<br>
 </div>
-   
-   
-   
-   
+<br>
+<br>
+<br>
 <div align="center">
 
 ## 📬 About Me
@@ -69,8 +73,9 @@
 </div>
 <!--연락처, 이메일, notion-->
    
-   
-   
+<br>
+<br>
+<br>
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=1F592E&height=100&fontSize=0)
 
 
