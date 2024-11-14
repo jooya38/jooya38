@@ -4,13 +4,10 @@
 # 👋 Hi, I'm FrontEnd Developer
 
 🎓 국민대학교 소프트웨어학부 재학 중
-<br>
-<br>
-<br>
+
 </div>
-<br>
+
 <div align="center">
-<br>
 <br>
 <br>
    
@@ -76,6 +73,7 @@
 <br>
 <br>
 <br>
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=1F592E&height=100&fontSize=0)
 
 
