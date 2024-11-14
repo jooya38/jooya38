@@ -62,7 +62,7 @@
 <br/>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-#62C15B?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
@@ -74,13 +74,13 @@
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=FFFFF)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black&borderColor=black)
+![Github](https://img.shields.io/badge/Github-363636?style=for-the-badge&logo=github&logoColor=FFFFF)
+![Unity](https://img.shields.io/badge/Unity-#EAEAEA?style=for-the-badge&logo=unity&logoColor=black&borderColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VsCode](https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=vscode&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-5A5A5A?style=for-the-badge&logo=notion&logoColor=white)
 </div>
 
 <br/>
