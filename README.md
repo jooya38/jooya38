@@ -8,20 +8,20 @@
 </div>
 
 <div align="center">
-<br>
-<br>
+<br/>
+<br/>
    
 ## 📚 Career
 
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
 
 <div align="center">
    
 | **기간**            | **활동 기관**      | **활동 내용**                                                                                  |
-|:---------------------|:--------------------:|:----------------------------------------------------------------------------------------------:|
+|:---------------------:|:--------------------:|:----------------------------------------------------------------------------------------------:|
 | 2023.03 ~           | Kookmin Univ.      | 국민대학교 소프트웨어학부, 소프트웨어 엔지니어링 전공                                         |
 | 2023                | KOSS               | 국민대학교 KOSS 동아리, 홍보부 운영진으로 참여                                               |
 | 2023                | SK LOOKIE          | 청년 소셜 이노베이터 그룹 LOOKIE 활동                                                        |
@@ -31,10 +31,10 @@
 
 </div>
 
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
    
@@ -44,22 +44,22 @@
 
 <div align="center">
    
-<br>
+<br/>
 
 **Languages**
 
-<br> 
+<br/> 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
-<br>
+<br/>
 
 **Frameworks & Libraries**
 
-<br>
+<br/>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -67,11 +67,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
 
-<br> 
+<br/> 
 
 **Tools**
 
-<br>
+<br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=FFFFF)
@@ -81,10 +81,10 @@
 
 </div>
 
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
 
@@ -94,9 +94,9 @@
 
 <!--연락처, 이메일, notion-->
    
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=1F592E&height=100&fontSize=0)
 
